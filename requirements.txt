@@ -5,4 +5,4 @@ Pillow
 scikit-learn
 scipy
 matplotlib
-saeborn
+seaborn
